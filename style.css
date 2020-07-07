@@ -1,0 +1,40 @@
+#card1 {
+    width: 300px;
+    height: auto;
+   display: inline-block;
+   vertical-align: top;
+}
+#card2{
+    width: 300px;
+    height: auto;
+    display: inline-block;
+    vertical-align: top;
+}
+#card3{
+    width: 300px;
+    height: auto;
+    display: inline-block;
+    vertical-align: top;
+}
+#card4{
+    width: 300px;
+    height: auto;
+    display: inline-block;
+    vertical-align: top;
+}
+#imagsz1 {
+    width: 200px;
+    height: auto;
+}
+#imagsz2{
+    width: 200px;
+    height: auto;
+}
+#imagsz3{
+    width: 200px;
+    height: auto;
+}
+#imagsz4{
+    width: 200px;
+    height: auto; 
+}
